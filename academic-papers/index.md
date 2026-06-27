@@ -24,6 +24,27 @@ This directory contains a curated selection of academic papers from my MSW curri
 * ### [🎓 Mentorship as a Catalyst: Exploring Support Systems in Graduate Training](./graduate-mentorship-support-systems.md)
   A qualitative exploration examining how emerging professional scholars experience institutional mentorship and structured support networks within higher education settings.
 
+* ### [🤝 Reimagining the Blueprint of Inclusive Organizational Leadership](./inclusive-leadership-assessment.md)
+  An analytical evaluation of inclusive leadership dynamics, power imbalances, and the deliberate construction of structural organizational belonging.
+
+* ### [🏥 Assertive Community Treatment and Permanent Supportive Housing](./assertive-community-treatment.md)
+  An evidence-based project suite combining intensive psychiatric care models with permanent supportive housing infrastructure to address complex chronic clinical conditions.
+
+* ### [🧠 Clinical Philosophy, Diagnosis, and Assessment](./clinical-diagnostic-philosophy.md)
+  A practice framework integrating the strengths perspective, person-in-environment methodology, and ethical diagnostic competencies to guide therapeutic intervention.
+
+* ### [📉 Economic Distress and Public Mental Health Outcomes](./economic-distress-mental-health.md)
+  A research-driven analysis defining the intersections of macroeconomic shifts, long-term unemployment, and community welfare infrastructure.
+
+* ### [📊 Organizational Behavior Frameworks: Dynamics, Design, and Leadership](./organizational-behavior-frameworks.md)
+  An analysis exploring deep-level diversity, administrative succession planning, and the ethical distribution of institutional power dynamics.
+
+* ### [📜 Social Policy Frameworks: Historical Foundations, Theory, and Systems](./social-policy-frameworks.md)
+  A structural analysis evaluating systemic wealth gaps, historical redlining practices, and equitable policy frameworks within community support networks.
+
+* ### [🎯 Beyond "Culture Fit": Modern Lenses for Strategic Talent Acquisition](./strategic-talent-acquisition.md)
+  An examination of strategic recruitment dimensions, moving beyond subjective culture fit to evaluate business imperative, complementary, and future institutional alignment.
+
 ---
 
 ## Navigation
