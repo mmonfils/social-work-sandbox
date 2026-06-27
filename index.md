@@ -7,7 +7,10 @@ Welcome to the Social Work Sandbox, an open-source portfolio, practice reflectio
 ## Explore the Sandbox
 
 * ### [📚 View Academic Papers Portfolio](./academic-papers/)
-  Explore curated research, clinical framework analyses, and policy papers from my MSW curriculum, optimized for direct reading on mobile web browsers.
+  Explore curated research, clinical framework analyses, and theoretical papers from my MSW curriculum, optimized for direct reading on mobile web browsers.
+
+* ### [⚖️ View Legislative Policy Briefings](./policy-briefings/)
+  Analyze policy architectures, statutory transformations, and macro-level systemic briefs tracking public legislation and community resource design.
 
 ---
 
