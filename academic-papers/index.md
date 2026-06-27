@@ -21,6 +21,9 @@ This directory contains a curated selection of academic papers from my MSW curri
 * ### [⚖️ The Analytical Scope of Critical Practice: An Evaluative Critique of Intersectionality Theory](./intersectionality-theory-critique.md)
   An academic evaluation of intersectionality theory assessing its structural parsimony, philosophical soundness, and empirical limitations within systemic practice.
 
+* ### [🎓 Mentorship as a Catalyst: Exploring Support Systems in Graduate Training](./graduate-mentorship-support-systems.md)
+  A qualitative exploration examining how emerging professional scholars experience institutional mentorship and structured support networks within higher education settings.
+
 ---
 
 ## Navigation
