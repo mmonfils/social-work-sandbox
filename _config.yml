@@ -1,0 +1,7 @@
+title: "Social Work Sandbox"
+description: "An open-source portfolio of research, practice reflections, and clinical frameworks."
+theme: jekyll-theme-cayman
+
+# Social Preview & Interface Assets
+og_image: "/assets/thumbnail.png"
+favicon: "/assets/favicon.png"

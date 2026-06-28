@@ -1,16 +1,16 @@
 # Social Work Sandbox
 
-Welcome to the Social Work Sandbox, an open-source portfolio, practice reflection space, and academic archive. This space serves as a professional extension of the Social Work Sandbox Substack.
+Welcome to an open-source portfolio, practice reflection space, and academic archive. This platform serves as a professional extension of the Social Work Sandbox Substack.
 
 ---
 
 ## Explore the Sandbox
 
-* ### [📚 View Academic Papers Portfolio](./academic-papers/)
-  Explore curated research, clinical framework analyses, and theoretical papers from my MSW curriculum, optimized for direct reading on mobile web browsers.
+* ### [📚 View Academic Papers Portfolio](./academic-papers/index.md)
+  Explore curated research, clinical framework analyses, and theoretical papers. Every document is optimized for direct, responsive reading on mobile web browsers.
 
-* ### [⚖️ View Legislative Policy Briefings](./policy-briefings/)
-  Analyze policy architectures, statutory transformations, and macro-level systemic briefs tracking public legislation and community resource design.
+* ### [📰 View Practice Insights & Briefs](./practice-insights/index.md)
+  Analyze practice reflections, statutory transformations, and macro-level systemic briefs. These resources track public legislation and community resource design.
 
 ---
 
