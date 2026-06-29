@@ -3,5 +3,5 @@ description: "An open-source portfolio of research, practice reflections, and cl
 theme: jekyll-theme-cayman
 
 # Social Preview & Interface Assets
-og_image: "/assets/thumbnail.png"
-favicon: "/assets/favicon.png"
+og_image: "https://mmonfils.github.io/social-work-sandbox/assets/thumbnail.png"
+favicon: "https://mmonfils.github.io/social-work-sandbox/assets/favicon.png"
